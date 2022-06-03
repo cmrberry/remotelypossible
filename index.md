@@ -2,7 +2,7 @@
 
 The RemotelyPossible website and newsletter closed at the end of May 2022. 
 
-Want to see what Rucheli is up to now? Click [HERE](http://www.rucheli.com).
+Want to see what Rucheli is up to now? Click [HERE](http://rucheli.com).
 
 ### Other Remote Job Sites You Should Check Out
 
