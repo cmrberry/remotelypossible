@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## RemotelyPossible is Closed!
 
-You can use the [editor on GitHub](https://github.com/cmrberry/remotelypossible/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The RemotelyPossible website and newsletter closed at the end of May 2022. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Want to see what Rucheli is up to now? Click [HERE](http://www.rucheli.com).
 
-### Markdown
+### Other Remote Job Sites You Should Check Out
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Curated Job Lists for Women:
+PowerToFly's Remote Jobs: https://powertofly.com/jobs/?location=Remote
+Tech Ladies' Remote Jobs: https://new.hiretechladies.com/jobs?locations=Remote
 
-```markdown
-Syntax highlighted code block
+#### My Fave Remote Job Boards:
+www.WeWorkRemotely.com
+www.Remotive.io
+www.Jobspresso.co
+www.Remote.co
+www.RemoteOK.io
+www.WorkingNomads.co
+www.SkipTheDrive.com
 
-# Header 1
-## Header 2
-### Header 3
+#### Remotive's huge list of remote companies that were hiring recently:
+https://docs.google.com/spreadsheets/d/18bljq3y5YTxPLmA4xj10EaKxs1KWhIdLTr8bF1K5XKI/edit#gid=0
 
-- Bulleted
-- List
+I hope that helps in your next steps!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmrberry/remotelypossible/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Wishing you the very best in your job search and beyond!
+Rucheli Berry
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Are you a former member of the Remote Career Kickstarter community and need help?? Email Rucheli at help@remotelypossible.tech for assistance.
